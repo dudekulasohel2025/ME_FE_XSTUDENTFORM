@@ -1,0 +1,6 @@
+{
+    "Test Case 1: Student Form App - UI renders: title and Form Inputs": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Student Form App - Shows error when name is not filled": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Student Form App - Shows error for invalid email format": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Student Form App - Shows error if password is too short": "TEST_STATUS_SUCCESS"
+}

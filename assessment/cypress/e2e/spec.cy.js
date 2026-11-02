@@ -1,6 +1,6 @@
 describe("Student Form App", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:5173"); // change to your app URL
+    cy.visit("https://me-fe-studentform-tau.vercel.app/"); // change to your app URL
   });
   
   it("UI renders: title and Form Inputs", () => {
